@@ -29,6 +29,9 @@ def get_language_bidi(lang):
     """
     Check if a language is bi-directional.
     """
+    # dirty hack to support test language
+    if lang == 'jp':
+        lang = 'ja'
     lang_info = get_language_info(lang)
     return lang_info['bidi']
 
