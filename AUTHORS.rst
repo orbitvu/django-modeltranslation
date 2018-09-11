@@ -45,6 +45,11 @@ Contributors
 * Venelin Stoykov
 * Stratos Moros
 * Benjamin Toueg
+* Emilie Zawadzki
+* Virgílio N Santos
+* PetrDlouhy
+* dmarcelino
+* GreyZmeem
 * And many more ... (if you miss your name here, please let us know!)
 
 .. _django-linguo: https://github.com/zmathew/django-linguo
